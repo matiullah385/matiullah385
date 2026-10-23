@@ -84,22 +84,20 @@ Building a Python pipeline to collect article metadata from multiple news RSS fe
 - Improving Python, Git, and project documentation.
 - Exploring NLP and sequence models through hands-on projects.
 - Learning how to read research papers and reproduce ideas on a small scale.
-  
+
 ## 🏆 Certificates & Achievements
 
-### 📜 Certificates
+### 🤖 Machine Learning Internship — FlyRank.ai
 
-<p align="center">
-  <a href="certificates/certificate-1.png">
-    <img src="certificates/certificate-1.png" width="400" alt="Certificate 1" />
-  </a>
-  <a href="certificates/certificate-2.png">
-    <img src="certificates/certificate-2.png" width="400" alt="Certificate 2" />
-  </a>
-</p>
+![FlyRank AI Machine Learning Internship Certificate](certificates/flyrank-ml-certificate.png)
 
-- **Certificate 1:** [View Certificate](AI Engineering Foundation certificate.jpeg)
-- **Certificate 2:** [View Certificate](certificates/certificate-2.png)
+- **Organization:** FlyRank Corp.
+- **Program:** Machine Learning Internship
+- **Duration:** July 1 – September 23, 2026
+- **Status:** Completed
+
+[Verify Certificate](https://internship.flyrank.ai/verify)
+
 
 ## 🚀 More Projects
 
