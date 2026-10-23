@@ -88,7 +88,6 @@ Building a Python pipeline to collect article metadata from multiple news RSS fe
 ## 🏆 Certificates & Achievements
 
 ### 🤖 Machine Learning Internship — FlyRank.ai
-
 ![FlyRank AI Machine Learning Internship Certificate](certificates/flyrank-ml-certificate.png)
 
 - **Organization:** FlyRank Corp.
