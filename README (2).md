@@ -64,8 +64,6 @@ Building a Python pipeline to collect article metadata from multiple news RSS fe
 
 **Focus:** XML/RSS parsing, data collection, error handling, and preparing structured datasets for analysis.
 
-> Add repository links to each project once the corresponding repository is published.
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -86,6 +84,40 @@ Building a Python pipeline to collect article metadata from multiple news RSS fe
 - Improving Python, Git, and project documentation.
 - Exploring NLP and sequence models through hands-on projects.
 - Learning how to read research papers and reproduce ideas on a small scale.
+  
+## 🏆 Certificates & Achievements
+
+### 📜 Certificates
+
+<p align="center">
+  <a href="certificates/certificate-1.png">
+    <img src="certificates/certificate-1.png" width="400" alt="Certificate 1" />
+  </a>
+  <a href="certificates/certificate-2.png">
+    <img src="certificates/certificate-2.png" width="400" alt="Certificate 2" />
+  </a>
+</p>
+
+- **Certificate 1:** [View Certificate](AI Engineering Foundation certificate.jpeg)
+- **Certificate 2:** [View Certificate](certificates/certificate-2.png)
+
+## 🚀 More Projects
+
+### Project Name
+AI Fuel Risk Predicter & Decision Engine
+
+**Technologies:** Python, Machine Learning, and relevant libraries.
+
+- **Key features:** Core Stack: Python, PyTorch, PostgreSQL, Gymnasium, Hugging Face (FinBERT)
+
+Architecture:
+
+CNN-LSTM: Extracts spatial features and sequential dependencies from high-frequency time-series market data.
+
+FinBERT: Parses live news and global data streams (such as GDELT) to quantify market sentiment and headline risks.
+
+DQN Agent: A Gymnasium-powered Reinforcement Learning decision engine that optimizes hedging and inventory strategies under uncertainty.
+
 
 ## 🤝 Connect With Me
 
